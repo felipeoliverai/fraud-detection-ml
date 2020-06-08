@@ -5,5 +5,7 @@ Many projects are done in the area of Fintechs and finance, one of the most appl
 
 <br>
 
-![alt text](https://www.xenonstack.com/wp-content/uploads/xenonstack-credit-card-fraud-detection.png)
+![alt text](https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://www.iventura.ai/wp-content/uploads/2019/12/H1.png)
 
+imagem alternativa: https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://www.iventura.ai/wp-content/uploads/2019/12/H1.png
+https://www.xenonstack.com/wp-content/uploads/xenonstack-credit-card-fraud-detection.png

@@ -1,8 +1,6 @@
 # Fraud Detection project 
 <hr>
 
-[![CircleCI](https://circleci.com/gh/facebookresearch/pytorch3d.svg?style=svg)](https://circleci.com/gh/facebookresearch/pytorch3d)
-
 
 Many projects are done in the area of Fintechs and finance, one of the most applied today are Artificial Intelligence models capable of identifying a fraudulent transaction, in this project we created a Machine Learning model that allows us to filter a fraudulent transaction.
 

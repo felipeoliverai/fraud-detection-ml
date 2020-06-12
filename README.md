@@ -1,11 +1,6 @@
 # Fraud Detection project 
 <hr>
 
-<p align="center">
-    <a href="http://sigmoidal.ai" alt="Contributors">
-        <img src="https://img.shields.io/badge/sigmoidal-ai-yellow" />
-    </a>
-</p>
 
 Many projects are done in the area of Fintechs and finance, one of the most applied today are Artificial Intelligence models capable of identifying a fraudulent transaction, in this project we created a Machine Learning model that allows us to filter a fraudulent transaction.
 

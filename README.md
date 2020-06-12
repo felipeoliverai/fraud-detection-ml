@@ -5,8 +5,6 @@
     <a href="http://sigmoidal.ai" alt="Contributors">
         <img src="https://img.shields.io/badge/sigmoidal-ai-yellow" />
     </a>
-    <img src="/img/python-logo.svg">
-    <a href="https://github.com/carlosfab/sigmoidal_ai/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
 </p>
 
 Many projects are done in the area of Fintechs and finance, one of the most applied today are Artificial Intelligence models capable of identifying a fraudulent transaction, in this project we created a Machine Learning model that allows us to filter a fraudulent transaction.
